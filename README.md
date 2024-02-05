@@ -19,8 +19,13 @@ Visualization Tools: Provide interactive visualization tools for exploring audio
 Support for Multiple Audio Formats: Support reading and processing audio data from various file formats including WAV, MP3, and FLAC, ensuring compatibility with diverse audio sources.
 Technologies Used
 
+
 Python
+
 NumPy: For numerical operations on audio data.
+
 SciPy: For signal processing tasks such as Fourier transforms.
+
 Librosa: A Python package for music and audio analysis.
+
 Matplotlib: For plotting waveforms and spectrograms.
